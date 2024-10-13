@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    background: linear-gradient(35deg ,#4a4a5f,#333232);
+    background-repeat: no-repeat;
+
+}
+h1{
+    color:#fff;
+}
+.col4{
+    height: 60%;
+    background-color: rgba(240, 248, 255, 0.5);
+}
+.btn-group .btn{
+    border-radius: 0;
+}
+.form-control{
+    border-radius: 0;
+    justify-self: flex-end;
+}
+input:active{
+    border: none;
+}
